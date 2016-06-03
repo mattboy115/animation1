@@ -2,7 +2,7 @@
 Name: Matthew Lee
 Date: June 2, 2016
 Class & Section:  WIA-01
-Comments: "HTML5 Canvas Drawing"
+Comments: "HTML5 Canvas Drawing" 
 */
 
 
